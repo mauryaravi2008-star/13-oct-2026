@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+a=10,b=20,c=15;
+if(a>b)
+printf("A");
+else if(b>c)
+printf("B");
+else
+printf("C");
+return 0;
+}
